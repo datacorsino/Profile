@@ -12,7 +12,7 @@ Além disso, estou atualmente em busca de oportunidades como Analista de Dados J
 
 Estou animado para aplicar minhas habilidades e experiências em ambientes empresariais orientados ao cliente e colaborativos. Convido você a verificar meu perfil e portfólio no GitHub para saber mais sobre meus projetos e contribuições anteriores. 
 
-Obrigado por visitar o meu perfil
+Obrigado por visitar o meu perfil!
     <div>
         <a href="https://github.com/datacorsino">
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datacorsino&show_icons=true&theme=dracula" alt="profile">
