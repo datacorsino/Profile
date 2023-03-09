@@ -10,7 +10,7 @@ Seja bem-vindo a explorar meus repositórios e projetos no GitHub, onde espero c
 
 Além disso, estou atualmente em busca de oportunidades como Analista de Dados JR, Analista de Sistemas JR ou Analista de Sistemas Service Now. 
 
-Estou animado para aplicar minhas habilidades e experiências em ambientes empresariais desafiadores e colaborativos. Convido você a verificar meu perfil e portfólio no GitHub para saber mais sobre meus projetos e contribuições anteriores. 
+Estou animado para aplicar minhas habilidades e experiências em ambientes empresariais orientados ao cliente e colaborativos. Convido você a verificar meu perfil e portfólio no GitHub para saber mais sobre meus projetos e contribuições anteriores. 
 
 Obrigado por visitar o meu perfil
     <div>
