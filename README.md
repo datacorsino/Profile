@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil no GitHub! 
 
-Meu nome é Luis Gustavo Corsino, sou um profissional de dados com experiência intermediária em PL/SQL, habilidades básicas em Python e Excel intermediário, bem como conhecimentos em ETL, DML e DDL. 
+Meu nome é Luis Gustavo Corsino, sou um profissional de dados com experiência intermediária em PL/SQL, habilidades básicas em Python e Excel intermediário, bem como experiência no processo de ETL e nas linguagens DML e DDL. 
 
 Estou atualmente em busca de aprimorar minhas habilidades em desenvolvimento web, incluindo JavaScript, HTML, CSS e Angular. 
 
