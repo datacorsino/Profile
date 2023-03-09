@@ -1,27 +1,40 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Bem-vindo ao meu perfil no GitHub! 
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Meu nome é Luis Gustavo Corsino, sou um profissional de dados com experiência intermediária em PL/SQL, habilidades básicas em Python e Excel intermediário, bem como conhecimentos em ETL, DML e DDL. 
 
+Estou atualmente em busca de aprimorar minhas habilidades em desenvolvimento web, incluindo JavaScript, HTML, CSS e Angular. 
+
+Meu objetivo é utilizar essas habilidades para aprimorar minha capacidade de gerenciar e manipular dados em ambientes web, bem como criar aplicações que simplifiquem e otimizem a tomada de decisões. 
+
+Seja bem-vindo a explorar meus repositórios e projetos no GitHub, onde espero compartilhar meu conhecimento e habilidades com a comunidade de desenvolvedores.
+
+Além disso, estou atualmente em busca de oportunidades como Analista de Dados JR, Analista de Sistemas JR ou Analista de Sistemas Service Now. 
+
+Estou animado para aplicar minhas habilidades e experiências em ambientes empresariais desafiadores e colaborativos. Convido você a verificar meu perfil e portfólio no GitHub para saber mais sobre meus projetos e contribuições anteriores. 
+
+Obrigado por visitar o meu perfil
+    <div>
+        <a href="https://github.com/datacorsino">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datacorsino&show_icons=true&theme=dracula" alt="profile">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datacorsino&theme=dracula" alt="profile">
+        </a>
+    </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+            <img align="center" alt="ludo-pl/sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+            <img align="center" alt="ludo-dba" id="image" style="width : 40px; height:30px;"  class="img-responsive" src="https://camo.githubusercontent.com/361ebf317957972ed0a921cc40ce94b0ed138c4fc1bd8f0745074bbab63339ff/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f362f36382f4f7261636c655f53514c5f446576656c6f7065725f6c6f676f2e737667" title="ícone Sql, piloto, banco de dados de jogo  Livre" >
+            <img align="center" alt="ludo-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img align="center" alt="ludo-pbi" height="30" width="40" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
+            <img align="center" alt="ludo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img align="center" alt="ludo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img align="center" alt="ludo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
 </div>
   
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ludocorsino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dba.corsino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/datacorsino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
